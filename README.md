@@ -139,10 +139,9 @@ In conclusion, the expected outcomes of this project encompass accurate disease 
 
 **How to use:**
 1) Install the following files from this link and save it to a folder:
-    a) https://drive.google.com/file/d/1dLMxU_XXo7P50wPaM5MvQsO7tKOpO8fi/view?usp=sharing
-    b) https://drive.google.com/file/d/11cXHdYAxJ9GLxau25JfyJgphhYkcjgEv/view?usp=sharing
-   
-    c) https://drive.google.com/file/d/1l8qEb-uUxXRYRKlFIAsWwCSahfOPrNo7/view?usp=sharing
+   a) https://drive.google.com/file/d/1dLMxU_XXo7P50wPaM5MvQsO7tKOpO8fi/view?usp=sharing
+   b) https://drive.google.com/file/d/11cXHdYAxJ9GLxau25JfyJgphhYkcjgEv/view?usp=sharing
+   c) https://drive.google.com/file/d/1l8qEb-uUxXRYRKlFIAsWwCSahfOPrNo7/view?usp=sharing
 3) Run the File using this command:
 ``` python
 python -m uvicorn:main app --reload
